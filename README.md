@@ -90,5 +90,5 @@ Dự án này phát hành theo giấy phép **MIT** – bạn có thể sử d�
 
 ## 👤 Tác giả
 
-- Tên: _[Điền tên của bạn vào đây]_
-- Github: _[https://github.com/yourusername]_
+- Tên: lighthouse23\_
+- Github: haidang170523
